@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @gefwds
+- 👋 Hi, I’m @YngBigBoy
 - 👀 I’m interested in DS, ML 
 - 🌱 I’m currently learning NLP modules
 - 💞️ I’m looking to collaborate on real projects using CV and NLP
