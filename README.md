@@ -2,7 +2,7 @@
 - 👀 I’m interested in DS, ML 
 - 🌱 I’m currently learning NLP modules
 - 💞️ I’m looking to collaborate on real projects using CV and NLP
-- 📫 How to reach me: mail: yngbb@bk.ru, VK: https://vk.com/aonothingg
+- 📫 How to reach me: mail: yngbb@bk.ru, TG: @yngbboy
 
 <!---
 gefwds/gefwds is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
